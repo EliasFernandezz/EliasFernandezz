@@ -2,9 +2,17 @@
 
 ## About Me :
 
-- 📍 Location: Uruguay, Maldonado, Punta del Este
-- 🌍 Languages: Spanish (native) and english (B1+ Level)
-- 🎓 I am currently studying to be a programming analyst, doing a career with 4 semesters, in the last one now.
+- 📍 Location: Uruguay, Maldonado, Punta del Este  
+- 🌐 Languages: Spanish (native) and English (B1+ PET certified, currently preparing for FCE – B2 level)  
+- 🎓 Student of Programming Analyst at CEI (2-year career, currently in the last semester)  
+- 💻 Skills in:  
+  - Object-Oriented Programming with C# and Java  
+  - Web design with HTML & CSS  
+  - Database management with SQL Server  
+  - Web development with ASP.NET MVC using Entity Framework & ADO.NET  
+  - Mobile app development with MAUI  
+- 📊 Currently learning: Microsoft Excel, Software Engineering fundamentals, and Design Patterns  
+- 🚀 Interested in continuously learning new technologies and planning to pursue a Computer Science degree at UCU (Universidad Católica del Uruguay) in the future  
 
 <br>
 
